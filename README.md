@@ -1,3 +1,5 @@
+This fork will aim to refactor and add additional functionality to the c++ port of Artemis.
+
 Artemis C++
 ===
 
